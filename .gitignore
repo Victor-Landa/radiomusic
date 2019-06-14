@@ -3,8 +3,7 @@ node_modules/
 # dist/
 npm-debug.log
 yarn-error.log
-js-yaml
-webpack-dev-server
+package-lock.json
 
 # Editor directories and files
 .idea
