@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='./assets/logo.png')
+    img(src='https://victor-landa.github.io/radiomusic/dist/logo.png')
     h1 RadioMusic
     h3 Top Artists In Your Country
     select(v-model="selectedCountry")
